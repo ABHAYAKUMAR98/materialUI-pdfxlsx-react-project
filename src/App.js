@@ -133,7 +133,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1 align="center">React-App</h1>
+      <h1 align="center">React-Application using materian UI </h1>
       <h4 align='center'>Export Data to Pdf in Material Table</h4>
       <MaterialTable
         title="Student Details"
